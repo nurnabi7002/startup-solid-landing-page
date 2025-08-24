@@ -299,7 +299,7 @@ form button:active {
 /* Footer */
 
 footer {
-    width: 95%;
+    width: 90%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -405,4 +405,5 @@ footer p {
 }
 
 }
+
 
